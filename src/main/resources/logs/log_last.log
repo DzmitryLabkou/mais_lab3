@@ -1,0 +1,20 @@
+15:08:56:056 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:56:056 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:56:056 [main] INFO  org.example.entity.Point - Создана точка: Point(4.0, 5.0, 6.0)
+15:08:56:056 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(2): центр=Point(4.0, 5.0, 6.0), радиус=10.0
+15:08:56:056 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:56:056 [main] ERROR org.example.entity.Sphere - Ошибка создания шара: радиус должен быть положительным, получен -1.0
+15:08:56:056 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:56:056 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:56:056 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:56:056 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:56:056 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:56:056 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:56:056 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:56:056 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:56:056 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:56:056 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:56:056 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:56:056 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:56:056 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:56:056 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0

@@ -1,0 +1,167 @@
+13:55:35:035 [main] INFO  org.example.entity.Point - Создана точка: Point(4.0, 5.0, 6.0)
+13:55:35:035 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(2): центр=Point(4.0, 5.0, 6.0), радиус=10.0
+13:55:35:035 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+13:55:35:035 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+13:55:35:035 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+13:55:35:035 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+13:55:35:035 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+13:55:35:035 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+13:55:35:035 [main] INFO  org.example.entity.Point - Создана точка: Point(4.0, 5.0, 6.0)
+13:55:35:035 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(2): центр=Point(4.0, 5.0, 6.0), радиус=10.0
+13:55:35:035 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+13:55:35:035 [main] ERROR org.example.entity.Sphere - Ошибка создания шара: радиус должен быть положительным, получен -1.0
+13:55:35:035 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+13:55:35:035 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+13:55:35:035 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+13:55:35:035 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+13:55:35:035 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+13:55:35:035 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+13:55:35:035 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+13:55:35:035 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+13:55:35:035 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+13:55:35:035 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+13:55:35:035 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+13:55:35:035 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+13:55:35:035 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+13:55:35:035 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+13:55:44:044 [main] INFO  org.example.entity.Point - Создана точка: Point(0.0, 0.0, 0.0)
+13:55:44:044 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(0.0, 0.0, 0.0), радиус=3.0
+13:55:44:044 [main] INFO  org.example.services.SphereValidator - Проверка валидности сферы: Sphere(1): центр=Point(0.0, 0.0, 0.0), радиус=3.0
+13:55:44:044 [main] INFO  org.example.services.SphereValidator - Сфера валидна.
+13:55:44:044 [main] INFO  org.example.entity.Point - Создана точка: Point(0.0, 0.0, 0.0)
+13:55:44:044 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(0.0, 0.0, 0.0), радиус=3.0
+13:55:44:044 [main] INFO  org.example.services.SphereValidator - Проверка валидности сферы: Sphere(1): центр=Point(0.0, 0.0, 0.0), радиус=3.0
+13:55:44:044 [main] INFO  org.example.services.SphereValidator - Сфера валидна.
+13:55:44:044 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+13:55:44:044 [main] ERROR org.example.entity.Sphere - Ошибка создания шара: радиус должен быть положительным, получен -1.0
+13:55:44:044 [main] INFO  org.example.entity.Point - Создана точка: Point(0.0, 0.0, 0.0)
+13:55:44:044 [main] ERROR org.example.entity.Sphere - Ошибка создания шара: радиус должен быть положительным, получен 0.0
+13:55:44:044 [main] INFO  org.example.entity.Point - Создана точка: Point(0.0, 0.0, 0.0)
+13:55:44:044 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(0.0, 0.0, 0.0), радиус=1.0
+13:55:44:044 [main] INFO  org.example.entity.Point - Создана точка: Point(0.0, 0.0, 0.0)
+13:55:44:044 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(0.0, 0.0, 0.0), радиус=3.0
+13:55:51:051 [main] INFO  org.example.entity.Point - Создана точка: Point(0.0, 0.0, 0.0)
+13:55:51:051 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(0.0, 0.0, 0.0), радиус=3.0
+13:55:51:051 [main] INFO  org.example.services.SphereValidator - Проверка валидности сферы: Sphere(1): центр=Point(0.0, 0.0, 0.0), радиус=3.0
+13:55:51:051 [main] INFO  org.example.services.SphereValidator - Сфера валидна.
+13:55:51:051 [main] INFO  org.example.entity.Point - Создана точка: Point(0.0, 0.0, 0.0)
+13:55:51:051 [main] INFO  org.example.entity.Point - Создана точка: Point(3.0, 4.0, 0.0)
+13:55:51:051 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 1.0, 1.0)
+13:55:51:051 [main] INFO  org.example.entity.Point - Создана точка: Point(0.0, 0.0, 0.0)
+13:55:51:051 [main] ERROR org.example.entity.Sphere - Ошибка создания шара: радиус должен быть положительным, получен -1.0
+14:01:41:041 [main] INFO  org.example.entity.Point - Создана точка: Point(0.0, 0.0, 0.0)
+14:01:41:041 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(0.0, 0.0, 0.0), радиус=3.0
+14:01:41:041 [main] INFO  org.example.services.SphereValidator - Проверка валидности сферы: Sphere(1): центр=Point(0.0, 0.0, 0.0), радиус=3.0
+14:01:41:041 [main] INFO  org.example.services.SphereValidator - Сфера валидна.
+14:01:41:041 [main] INFO  org.example.entity.Point - Создана точка: Point(0.0, 0.0, 0.0)
+14:01:41:041 [main] INFO  org.example.entity.Point - Создана точка: Point(3.0, 4.0, 0.0)
+14:01:41:041 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 1.0, 1.0)
+14:01:41:041 [main] INFO  org.example.entity.Point - Создана точка: Point(0.0, 0.0, 0.0)
+14:01:41:041 [main] ERROR org.example.entity.Sphere - Ошибка создания шара: радиус должен быть положительным, получен -1.0
+14:05:47:047 [main] INFO  org.example.FileReader.SphereFileReader - Чтение файла сферы из: C:\Users\path\to\your\input.txt
+14:05:47:047 [main] ERROR org.example.Main - Ошибка при чтении файла: C:\Users\path\to\your\input.txt (Системе не удается найти указанный путь)
+14:05:54:054 [main] INFO  org.example.FileReader.SphereFileReader - Чтение файла сферы из: C:\Users\path\to\your\input.txt
+14:05:54:054 [main] ERROR org.example.Main - Ошибка при чтении файла: C:\Users\path\to\your\input.txt (Системе не удается найти указанный путь)
+15:07:05:005 [main] INFO  org.example.FileReader.SphereFileReader - Чтение файла сферы из: C:\Users\path\to\your\input.txt
+15:07:05:005 [main] ERROR org.example.Main - Ошибка при чтении файла: C:\Users\path\to\your\input.txt (Системе не удается найти указанный путь)
+15:07:38:038 [main] INFO  org.example.entity.Point - Создана точка: Point(0.0, 0.0, 0.0)
+15:07:38:038 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(0.0, 0.0, 0.0), радиус=3.0
+15:07:38:038 [main] INFO  org.example.services.SphereValidator - Проверка валидности сферы: Sphere(1): центр=Point(0.0, 0.0, 0.0), радиус=3.0
+15:07:38:038 [main] INFO  org.example.services.SphereValidator - Сфера валидна.
+15:07:38:038 [main] INFO  org.example.entity.Point - Создана точка: Point(0.0, 0.0, 0.0)
+15:07:38:038 [main] INFO  org.example.entity.Point - Создана точка: Point(3.0, 4.0, 0.0)
+15:07:38:038 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 1.0, 1.0)
+15:07:38:038 [main] INFO  org.example.entity.Point - Создана точка: Point(0.0, 0.0, 0.0)
+15:07:38:038 [main] ERROR org.example.entity.Sphere - Ошибка создания шара: радиус должен быть положительным, получен -1.0
+15:07:52:052 [main] INFO  org.example.entity.Point - Создана точка: Point(0.0, 0.0, 0.0)
+15:07:52:052 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(0.0, 0.0, 0.0), радиус=3.0
+15:07:52:052 [main] INFO  org.example.services.SphereValidator - Проверка валидности сферы: Sphere(1): центр=Point(0.0, 0.0, 0.0), радиус=3.0
+15:07:52:052 [main] INFO  org.example.services.SphereValidator - Сфера валидна.
+15:07:52:052 [main] INFO  org.example.entity.Point - Создана точка: Point(0.0, 0.0, 0.0)
+15:07:52:052 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(0.0, 0.0, 0.0), радиус=3.0
+15:07:52:052 [main] INFO  org.example.services.SphereValidator - Проверка валидности сферы: Sphere(1): центр=Point(0.0, 0.0, 0.0), радиус=3.0
+15:07:52:052 [main] INFO  org.example.services.SphereValidator - Сфера валидна.
+15:07:52:052 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:07:52:052 [main] ERROR org.example.entity.Sphere - Ошибка создания шара: радиус должен быть положительным, получен -1.0
+15:07:52:052 [main] INFO  org.example.entity.Point - Создана точка: Point(0.0, 0.0, 0.0)
+15:07:52:052 [main] ERROR org.example.entity.Sphere - Ошибка создания шара: радиус должен быть положительным, получен 0.0
+15:07:52:052 [main] INFO  org.example.entity.Point - Создана точка: Point(0.0, 0.0, 0.0)
+15:07:52:052 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(0.0, 0.0, 0.0), радиус=1.0
+15:07:52:052 [main] INFO  org.example.entity.Point - Создана точка: Point(0.0, 0.0, 0.0)
+15:07:52:052 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(0.0, 0.0, 0.0), радиус=3.0
+15:08:09:009 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:09:009 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:09:009 [main] INFO  org.example.entity.Point - Создана точка: Point(4.0, 5.0, 6.0)
+15:08:09:009 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(2): центр=Point(4.0, 5.0, 6.0), радиус=10.0
+15:08:09:009 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:09:009 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:09:009 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:09:009 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:09:009 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:09:009 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:09:009 [main] INFO  org.example.entity.Point - Создана точка: Point(4.0, 5.0, 6.0)
+15:08:09:009 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(2): центр=Point(4.0, 5.0, 6.0), радиус=10.0
+15:08:09:009 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:09:009 [main] ERROR org.example.entity.Sphere - Ошибка создания шара: радиус должен быть положительным, получен -1.0
+15:08:09:009 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:09:009 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:09:009 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:09:009 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:09:009 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:09:009 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:09:009 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:09:009 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:09:009 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:09:009 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:09:009 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:09:009 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:09:009 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:09:009 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:29:029 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:29:029 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:29:029 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:29:029 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:29:029 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:29:029 [main] INFO  org.example.entity.Point - Создана точка: Point(4.0, 5.0, 6.0)
+15:08:29:029 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:29:029 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:29:029 [main] INFO  org.example.entity.Point - Создана точка: Point(4.0, 5.0, 6.0)
+15:08:29:029 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:29:029 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:29:029 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:50:050 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:50:050 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:50:050 [main] INFO  org.example.entity.Point - Создана точка: Point(4.0, 5.0, 6.0)
+15:08:50:050 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(2): центр=Point(4.0, 5.0, 6.0), радиус=10.0
+15:08:50:050 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:50:050 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:50:050 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:50:050 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:50:050 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:50:050 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:50:050 [main] INFO  org.example.entity.Point - Создана точка: Point(4.0, 5.0, 6.0)
+15:08:50:050 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(2): центр=Point(4.0, 5.0, 6.0), радиус=10.0
+15:08:50:050 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:50:050 [main] ERROR org.example.entity.Sphere - Ошибка создания шара: радиус должен быть положительным, получен -1.0
+15:08:50:050 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:50:050 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:50:050 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:50:050 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:50:050 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:50:050 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:50:050 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:50:050 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:50:050 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:50:050 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:50:050 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:50:050 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:50:050 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:50:050 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:56:056 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:56:056 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:56:056 [main] INFO  org.example.entity.Point - Создана точка: Point(4.0, 5.0, 6.0)
+15:08:56:056 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(2): центр=Point(4.0, 5.0, 6.0), радиус=10.0
+15:08:56:056 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:56:056 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
+15:08:56:056 [main] INFO  org.example.entity.Point - Создана точка: Point(1.0, 2.0, 3.0)
+15:08:56:056 [main] INFO  org.example.entity.Sphere - Создан шар: Sphere(1): центр=Point(1.0, 2.0, 3.0), радиус=5.0
